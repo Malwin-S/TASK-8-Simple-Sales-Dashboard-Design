@@ -1,0 +1,4 @@
+1.Technology leads in sales: The donut chart clearly shows that the "Technology" product category contributes the largest proportion of overall sales.
+2.Sales show a downward trend over time: The line chart indicates a general decline in sales from the earlier months/years displayed towards the later ones.
+3.The "West" region is the top performer: The bar chart highlights that the "West" region has the highest total sales compared to all other regions.
+4.Office Supplies show the lowest sales: Looking at the donut chart, "Office Supplies" represents the smallest segment, indicating it contributes the least to overall sales among the categories.
